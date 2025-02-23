@@ -1,0 +1,14 @@
+{
+  "name": "xdiscord",
+  "version": "1.0.0",
+  "description": "command line utility to export discord data",
+  "main": "xdiscord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jfbouzereau@netcourrier.com",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
