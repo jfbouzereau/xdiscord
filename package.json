@@ -4,7 +4,8 @@
   "description": "command line utility to export discord data",
   "main": "xdiscord.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "TOKEN=... node xdiscord.js"
   },
   "author": "jfbouzereau@netcourrier.com",
   "license": "ISC",
