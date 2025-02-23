@@ -42,6 +42,10 @@ A channel is export as the following path:
 guild.id / category.id / channel.id / index.html  
 
 
+## Requirements
+
+node.js  
+curl  
 
 
 
