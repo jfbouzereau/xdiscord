@@ -38,7 +38,7 @@ At any moment press escape or backspace to go back to the upper level.
 At any moment press q to quit.  
 
 
-A channel is export as the following path:  
+A channel is exported as the following path:  
 guild.id / category.id / channel.id / index.html  
 
 
